@@ -1,4 +1,4 @@
-# sql_scd_examples
+# Slowly Changing Dimension (SCD)
 
 Ei, você! 🫵🤓
 
